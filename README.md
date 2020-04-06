@@ -1,7 +1,12 @@
 # speedtest
 Network Speed Monitor
 
-## Dependencies
+
+
+### Dependencies
 - Python
 - InfluxDB
 - speedtest-cli
+
+### Crontab
+`*/10 * * * * python3 ./speedtest.py`
