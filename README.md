@@ -1,5 +1,8 @@
 # speedtest
-Network Speed Monitor
+![bla](https://github.com/FellipeBr/speedtest/workflows/Python%20application/badge.svg)
+
+Network Speed Monitor written in Python used to populate grafana dashboard.
+
 
 
 
